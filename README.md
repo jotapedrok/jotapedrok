@@ -13,3 +13,9 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
   <li>🎥 Antes de transicionar para a área de tecnologia, trabalhava com produções audiovisuais, filmagem também sempre fez parte da minha vida, já tive canal no youtube e eventualmente faço alguns freelas para publicidade. Gosto de fazer minhas produções por lazer, também</li>
   <li>📷 Outro hobbie que gosto de ter é o de fotografar. A pesar de prefir registrar momentos em vídeo, nem sempre é possível, mas nem por isso eu deixo de registralos. Mais pra frente você vai poder conferir algumas fotos minhas clicando no link meu instagram de fotos</li>
 </ul>
+
+<h2>Status do Github :bar_chart:</h2>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedrok&langs_count=10&theme=vue&layout=compact" alt="jotapedrok :: Top Langs" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=jotapedrok&show_icons=true&theme=vue" alt="jotapedrok :: Profile Stats" /></p>
