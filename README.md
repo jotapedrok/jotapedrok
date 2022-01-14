@@ -3,6 +3,11 @@
 <p>Sou do Rio de Janeiro, Brasil. Estudante de Desenvolvimento de Softwares da <a href="https://www.betrybe.com/"><strong>Trybe</strong></a>;<br />
 Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a cada dia aprender um pouco mais dessa área e continuar a me desenvolver como DEV.</p>
 
+<h3>Entre em contato comigo por:</h3>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedroasant@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandrepimenteljr
+)
+
 <h3>Algumas Coisas que gosto de fazer: </h3>
 
 <ul>
@@ -13,6 +18,16 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
   <li>🎥 Antes de transicionar para a área de tecnologia, trabalhava com produções audiovisuais, filmagem também sempre fez parte da minha vida, já tive canal no youtube e eventualmente faço alguns freelas para publicidade. Gosto de fazer minhas produções por lazer, também</li>
   <li>📷 Outro hobbie que gosto de ter é o de fotografar. A pesar de prefir registrar momentos em vídeo, nem sempre é possível, mas nem por isso eu deixo de registralos. Mais pra frente você vai poder conferir algumas fotos minhas clicando no link meu instagram de fotos</li>
 </ul>
+
+<h2>Tecnologias e Frameworks</h2>
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Jest Badge](	https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <h2>Status do Github :bar_chart:</h2>
 
