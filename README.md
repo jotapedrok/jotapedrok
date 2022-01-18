@@ -31,7 +31,7 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
 </li>
 </ul>
 
-<h2>Tecnologias e Frameworks</h2>
+<h2>Tecnologias, Libs e Frameworks</h2>
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
