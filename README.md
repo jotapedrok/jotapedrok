@@ -23,7 +23,12 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
   <li>🎮 Assim como o futebol, gosto muito de jogos eletrônicos, a pesar de não ser muito bom em nenhum deles.</li>
   <li>🎧 Música é algo que sempre fez parte da minha vida. Desde pequeno ouvia os cds de rock do meu pai, comecei a aprender a tocar violão com 10 anos(e continuo aprendendo até hoje), tive banda de rock, fiz parte de um grupo de rap... Enfim... E <strong>SEMPRE</strong> passei a maior parte do meu dia com o fone no ouvido escutando alguma música</li>
   <li>🎥 Antes de transicionar para a área de tecnologia, trabalhava com produções audiovisuais, filmagem também sempre fez parte da minha vida, já tive canal no youtube e eventualmente faço alguns freelas para publicidade. Gosto de fazer minhas produções por lazer, também</li>
-  <li>📷 Outro hobbie que gosto de ter é o de fotografar. A pesar de prefir registrar momentos em vídeo, nem sempre é possível, mas nem por isso eu deixo de registralos. No link a seguir você pode conferir algumas fotos minhas em um Instagram que criei apenas para postar essas fotos artísticas</li>
+  <li>📷 Outro hobbie que gosto de ter é o de fotografar. A pesar de prefir registrar momentos em vídeo, nem sempre é possível, mas nem por isso eu deixo de registralos. No link a seguir você pode conferir algumas fotos minhas em um Instagram que criei apenas para postar essas fotos artísticas
+<br />
+<a href="https://www.instagram.com/jota.click/" target="_blank">
+  <img src="https://img.shields.io/badge/Jota.Click-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram icon" />
+</a>
+</li>
 </ul>
 
 <h2>Tecnologias e Frameworks</h2>
@@ -43,6 +48,14 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
 
 <h2>Status do Github :bar_chart:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedrok&langs_count=10&theme=vue&layout=compact" alt="jotapedrok :: Top Langs" /></p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/" target"_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedrok&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=1e222b" alt="jotapedrok :: Top Langs" />
+  </a>
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jotapedrok&show_icons=true&theme=vue" alt="jotapedrok :: Profile Stats" /></p>
+<p>
+  <a href="https://github-readme-stats.vercel.app/" target"_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=jotapedrok&show_icons=true&theme=dark&hide_border=true&bg_color=1e222b" alt="jotapedrok :: Profile Stats" />
+  </a>
+</p>
