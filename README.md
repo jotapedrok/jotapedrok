@@ -14,6 +14,9 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
 <a href="malito:ĵoaopedroasant@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white" alt="Outlook icon" />
 </a>
+<a href="malito:jotapedrok@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=EA4335" alt="Outlook icon" />
+</a>
 
 <h3>Algumas Coisas que gosto de fazer: </h3>
 
@@ -37,6 +40,7 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JQuery Badge](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -45,6 +49,7 @@ Foco minha carreira no desenvolvimento <strong>Front-end</strong> e procuro a ca
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h2>Status do Github :bar_chart:</h2>
 
